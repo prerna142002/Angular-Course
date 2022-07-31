@@ -8,5 +8,9 @@ To create a new template - ng new <name-of-app>
   Styling. - CSS
   
   Now will make files automatically - like gitignore and all.
+  
+  ng serve - Serves the angular app. opens the app in the browser. Conver the browser compatiale code.
+  
+  
 
 
