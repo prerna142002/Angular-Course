@@ -1,0 +1,12 @@
+Generate the components
+To generate the boiler plate.
+
+To install the application - npm install -g @angular/cli
+To create a new template - ng new <name-of-app>
+  Will ask for permission whether highly optimised code be created or not. - No
+  Routing - Yes
+  Styling. - CSS
+  
+  Now will make files automatically - like gitignore and all.
+
+
