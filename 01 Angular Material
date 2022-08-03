@@ -1,0 +1,10 @@
+Declaring the angular app:
+angular.module('MyApp',['ngMaterial']).run(function(){
+  console.log('My App is ready!');
+  });
+  
+CONTAINER:
+  Toolbar : md-toolbar
+  Sidenav : md-sidenav
+  Content : content
+
